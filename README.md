@@ -1,14 +1,12 @@
-Name : Rayyan Hussain
+Name : Rayyan Arif Hussain
 Company : CODETECH IT SOLUTIONS
-ID : 
-Domain :
-Mentor :
+ID : CT08DS4690
+Domain : JAVA PROGRAMMING
+Duration : July to August 2024
+Mentor : Muzammil Ahmed
 
 Overview Of Project 
 Project: Simple Calculator
-Overview of Project: Simple Calculator
-
-Project Name: Simple Calculator
 
 Objective:
 The goal of this project is to create a basic calculator application using Java. The application allows users to perform fundamental arithmetic operations—addition, subtraction, multiplication, and division. The program interacts with the user through the console, making it a simple, yet effective, tool for performing quick calculations.
